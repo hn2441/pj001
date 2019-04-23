@@ -4,6 +4,6 @@
 		<tr>
 			<td colspan="2" style="width: 85%;"></td>
 			<td style="text-align: right;">
-				<a href="signup.do">회원가입 </a> | <a href="signin.do">로그인</a>
+				<a href="signup.do">Signup </a> | <a href="signin.do">Signin</a>
 				</td>
 		</tr>
